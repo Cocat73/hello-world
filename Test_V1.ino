@@ -1,6 +1,5 @@
 void setup() {
-  // put your setup code here, to run once:
-
+adding things once
 }
 
 void loop() {
